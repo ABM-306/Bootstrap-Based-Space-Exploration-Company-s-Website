@@ -293,7 +293,7 @@ body{
 @media (max-width: 768px){
     .cutt{
         clip-path: polygon(100% 0%, 100% 100%, 0% 100%, 0% 0%) !important;
-        max-height: 150px !important;
+        
     }
     .hide{
         display: block !important;
